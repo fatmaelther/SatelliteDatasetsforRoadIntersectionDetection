@@ -11,6 +11,7 @@ training datasets is a bottleneck in this approach. A novel labelled satellite i
 intersection recognition problem is presented. consisting of 14,692 satellite images of Washington
 DC, USA. To support other users of the dataset, an automated download and labelling script is
 provided for dataset replication.
+
 A constant problem in our work is lack of shared datasets. It is desirable to make the two datasets
 constructed here available to the research community. The terms of Google API prevent the direct
 publishing or distribution to others. In order for others researchers to access the dataset, we have
