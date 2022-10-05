@@ -46,3 +46,21 @@ want.
 3. annottation_folder_path: In this field, put the path for the annotation folder that associated
 with this script.
 4. destination_path: In this filed, define a path to a create dataset folder in it.
+To use this dataset plase cite our work:
+@article{(Open Science Index):https://publications.waset.org/pdf/10012708,
+	  title     = {Using Satellite Images Datasets for Road Intersection Detection in Route Planning},
+	  author    = {Fatma El-zahraa El-taher and  Ayman Taha and  Jane Courtney and  Susan Mckeever},
+	  country	= {},
+	  institution	= {},
+	    journal   = {International Journal of Computer and Systems Engineering},
+	  volume    = {16},
+	  number    = {10},
+	  year      = {2022},
+	  pages     = {411 - 418},
+	  ee        = {https://publications.waset.org/pdf/10012708},
+	  url   	= {https://publications.waset.org/vol/190},
+	  bibsource = {https://publications.waset.org/},
+	  issn  	= {eISSN: 1307-6892},
+	  publisher = {World Academy of Science, Engineering and Technology},
+	  index 	= {Open Science Index 190, 2022},
+	}
