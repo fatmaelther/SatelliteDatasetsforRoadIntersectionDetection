@@ -48,9 +48,8 @@ with this script.
 4. destination_path: In this filed, define a path to a create dataset folder in it.
 
 
-To use this dataset plase cite our work:
-@article{(Open Science Index):https://publications.waset.org/pdf/10012708,
-	  title     = {Using Satellite Images Datasets for Road Intersection Detection in Route Planning},
+Recommended Citation:
+@article{ title     = {Using Satellite Images Datasets for Road Intersection Detection in Route Planning},
 	  author    = {Fatma El-zahraa El-taher and  Ayman Taha and  Jane Courtney and  Susan Mckeever},
 	  country	= {},
 	  institution	= {},
